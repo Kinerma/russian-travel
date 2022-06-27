@@ -4,38 +4,18 @@
   max-width: 360px;
   font-size: 18px;
   line-height: 22px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
   font-weight: 400;
-  margin: 0;
-  margin-left: 412px;
-  margin-right: 412px;
+  margin: 0 auto;
   margin-top: 32px;
   text-align: center;
 }
-@media screen and (max-width: 1024px) {
-  .cover__subtitle {
-    margin-left: 332px;
-    margin-right: 332px;
-  }
-}
-@media screen and (max-width: 768px) {
-  .cover__subtitle {
-    margin-left: 204px;
-    margin-right: 204px;
-  }
-}
-@media screen and (max-width: 669px) {
-  .cover__subtitle {
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
 @media screen and (max-width: 425px) {
   .cover__subtitle {
-    margin-left: 16px;
-    margin-right: 16px;
     margin-top: 16px;
     max-width: 288px;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
   }
 }
