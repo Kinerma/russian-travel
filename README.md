@@ -12,4 +12,5 @@
 
 # Ссылки
 [Макет в Figma] (https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A634)
-[Ссылка на проект на GitHub Pages] ()
+
+[Ссылка на проект на GitHub Pages] (https://kinerma.github.io/russian-travel/)
