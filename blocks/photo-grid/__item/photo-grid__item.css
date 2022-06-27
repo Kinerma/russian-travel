@@ -5,8 +5,3 @@
   object-position: center;
   object-fit: cover;
 }
-@media screen and (max-width:320px) {
-  .photo-grid__item:nth-of-type(12) {
-    margin-bottom: 0;
-  }
-} 
